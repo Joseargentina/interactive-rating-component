@@ -36,6 +36,7 @@ body {
     background-color: var(--very-dark-blue);
     min-height: 100vh;
     display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: center;
 }
