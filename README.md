@@ -1,5 +1,5 @@
 # Interactive Rating Component
-./images/captura_estado_1.png
+![Captura de pantalla](./images/captura_estado_1.png)
 
 ## Descripción
 
@@ -50,18 +50,15 @@ Este proyecto es un componente interactivo de calificación diseñado como un re
 
 ### Estado Activo
 
-![Captura de pantalla estado activo]
-(./images/captura_estado_2.png)
+![Captura de pantalla estado activo](./images/captura_estado_2.png)
 
 ### Estado de Agradecimiento
 
-![Captura de pantalla Thank you]
-(./images/captura_estado_3.png)
+![Captura de pantalla Thank you](./images/captura_estado_3.png)
 
 ### Versión Móvil
 
-![Captura de pantalla movil]
-(./images/captura_estado_movil.png)
+![Captura de pantalla movil](./images/captura_estado_movil.png)
 
 ## Créditos
 
