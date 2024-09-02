@@ -145,4 +145,8 @@ body {
         max-width: 450px;
         padding: 3rem;
     }
+
+    .rating-options {
+        gap: 0.5rem;
+    }
 }
