@@ -1,4 +1,5 @@
 # Interactive Rating Component
+./images/Captura_estado_1.png
 
 ## Descripción
 
@@ -62,6 +63,7 @@ Este proyecto es un componente interactivo de calificación diseñado como un re
 ## Créditos
 
 - **Desafío de**: [Frontend Mentor](https://www.frontendmentor.io?ref=challenge)
+- **Solución**: [Ver solución](https://interactive-component-rating-dev.netlify.app/)
 - **Desarrollado por**: [Joshep](https://github.com/joseargentina)
 - **Frontend Mentor**: [Joshep](https://www.frontendmentor.io/profile/Joseargentina)
 
