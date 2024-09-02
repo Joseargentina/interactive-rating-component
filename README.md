@@ -1,89 +1,69 @@
-# Frontend Mentor - Interactive rating component
+# Interactive Rating Component
 
-![Design preview for the Interactive rating component coding challenge](./design/Captura%20estado%201.png.jpg)
+## Descripción
 
-## Bienvenidos! 👋
-## Tabla de contenidos
+Este proyecto es un componente interactivo de calificación diseñado como un reto de Frontend Mentor. Permite a los usuarios calificar una experiencia y recibir una confirmación de su calificación. El componente está diseñado para ser responsive y se adapta a diferentes tamaños de pantalla.
 
-- [Frontend Mentor - Interactive rating component](#frontend-mentor---interactive-rating-component)
-  - [Bienvenidos! 👋](#bienvenidos-)
-  - [Tabla de contenidos](#tabla-de-contenidos)
-  - [Descripción general](#descripción-general)
-    - [El desafío](#el-desafío)
-    - [Captura de pantalla](#captura-de-pantalla)
-    - [Enlaces](#enlaces)
-  - [Mi proceso](#mi-proceso)
-    - [Construido con](#construido-con)
-    - [Lo que aprendí](#lo-que-aprendí)
-    - [Desarrollo continuo](#desarrollo-continuo)
-    - [Recursos útiles](#recursos-útiles)
-  - [Autor](#autor)
+## Tecnologías Utilizadas
 
-## Descripción general
+- **HTML**: Para la estructura de la página.
+- **CSS**: Para el diseño y estilo del componente.
+- **JavaScript**: Para la funcionalidad interactiva del componente.
 
-### El desafío
+## Estructura del Proyecto
 
-Los usuarios deberían poder:
+- **`index.html`**: El archivo HTML principal que define la estructura del componente.
+- **`style/main.css`**: El archivo CSS para el estilo del componente.
+- **`app.js`**: El archivo JavaScript para la lógica interactiva del componente.
+- **`images/`**: Carpeta que contiene las imágenes usadas en el componente.
 
-- Ver la disposición óptima de la aplicación dependiendo del tamaño de la pantalla de su dispositivo.
-- Ver los estados de desplazamiento para todos los elementos interactivos en la página.
-- Seleccionar y enviar una calificación numérica.
-- Ver la tarjeta de agradecimiento después de enviar una calificación.
+## Funcionamiento
 
-### Captura de pantalla
+1. **Estado de Calificación**: 
+   - Los usuarios pueden seleccionar una calificación entre 1 y 5 estrellas.
+   - Una vez seleccionada una calificación, el usuario puede hacer clic en el botón "Submit" para enviar su calificación.
 
-![Captura de pantalla](./design/Captura_estado_1.png)
-![Captura de pantalla estado activo](./design/Captura_estado_2.png)
-![Captura de pantalla Thank you](./design/Captura_estado_3.png)
-![Captura de pantalla movil](./design/Captura_estado_movil.png)
+2. **Estado de Agradecimiento**: 
+   - Después de enviar la calificación, el componente muestra un mensaje de agradecimiento junto con la calificación seleccionada.
 
+## Cómo Ejecutar el Proyecto
 
-### Enlaces
+1. **Clona el Repositorio**:
+   ```bash
+   git clone https://github.com/joseargentina/interactive-rating-component.git
+   ```
 
-- URL de la solución: [Añade la URL de la solución aquí](https://tu-url-de-solucion.com)
-- URL del sitio en vivo: [Añade la URL del sitio en vivo aquí](https://tu-url-de-sitio-en-vivo.com)
+2. **Navega al Directorio del Proyecto**:
+   ```bash
+   cd interactive-rating-component
+   ```
 
-## Mi proceso
+3. **Abre `index.html` en tu Navegador**:
+   - Puedes abrir el archivo `index.html` directamente en tu navegador para ver el componente en acción.
 
-### Construido con
+## Capturas de Pantalla
 
-- Marcado semántico de HTML5
-- Propiedades personalizadas de CSS
-- Flexbox
-- CSS Grid
-- Flujo de trabajo móvil primero
+### Estado de Calificación
 
-### Lo que aprendí
+![Captura de pantalla](./images/Captura_estado_1.png)
 
-Usa esta sección para recapitular algunos de los principales aprendizajes mientras trabajabas en este proyecto. Escribir estos y proporcionar ejemplos de código es una excelente manera de reforzar tu propio conocimiento.
+### Estado Activo
 
-```html
-<h1>Algunos códigos HTML de los que estoy orgulloso</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
+![Captura de pantalla estado activo](./images/Captura_estado_2.png)
 
-### Desarrollo continuo
+### Estado de Agradecimiento
 
-Usa esta sección para delinear áreas en las que deseas seguir enfocándote en proyectos futuros. Estos podrían ser conceptos con los que aún no te sientes completamente cómodo o técnicas que encontraste útiles y que quieres perfeccionar.
+![Captura de pantalla Thank you](./images/Captura_estado_3.png)
 
-### Recursos útiles
+### Versión Móvil
 
-- [Recurso ejemplo 1](https://www.ejemplo.com) - Esto me ayudó con XYZ por tal razón. Me gustó mucho este patrón y lo usaré en el futuro.
-- [Recurso ejemplo 2](https://www.ejemplo.com) - Este es un artículo increíble que me ayudó a entender XYZ. Lo recomendaría a cualquiera que aún esté aprendiendo este concepto.
+![Captura de pantalla movil](./images/Captura_estado_movil.png)
 
-## Autor
+## Créditos
 
-- Github - [José](https://github.com/joseargentina)
-- Frontend Mentor - [@tuusuario](https://www.frontendmentor.io/profile/Joseargentina)
+- **Desafío de**: [Frontend Mentor](https://www.frontendmentor.io?ref=challenge)
+- **Desarrollado por**: [Joshep](https://github.com/joseargentina)
+- **Frontend Mentor**: [Joshep](https://www.frontendmentor.io/profile/Joseargentina)
 
 
 
