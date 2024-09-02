@@ -32,10 +32,10 @@ Los usuarios deberían poder:
 
 ### Captura de pantalla
 
-![Captura de pantalla](./design/Captura%20estado%201.png)
-![Captura de pantalla estado activo](./design/Captura%20estado%202.png)
-![Captura de pantalla Thank you](./design/Captura%20estado%203.png)
-![Captura de pantalla movil](./design/Captura%20estado%20movil.png)
+![Captura de pantalla](./design/Captura_estado_1.png)
+![Captura de pantalla estado activo](./design/Captura_estado_2.png)
+![Captura de pantalla Thank you](./design/Captura_estado_3.png)
+![Captura de pantalla movil](./design/Captura_estado_movil.png)
 
 
 ### Enlaces
